@@ -4,12 +4,13 @@
     
 ## CONTRIBUTORS : 
 
-Esther Wachuka
-Hillary Dalie
-Millie Muteti
-Denis Mugendi
-Irene Mercy
-Hulian John
+* Esther Wachuka,
+
+* Hillary Dalie
+* Millie Muteti
+* Denis Mugendi
+* Irene Mercy
+* Hulian John
 
 ## LINK :
 
